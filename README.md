@@ -2,6 +2,7 @@
 
 RUNNABLE CODE FILE :
 webscraping.py
+and
 url.txt
 
 Aggenda:
